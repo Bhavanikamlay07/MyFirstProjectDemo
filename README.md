@@ -1,3 +1,3 @@
 # MyFirstProjectDemo
 This is My First Git Repo <br/>
-Author - Bhavanikamlay
+Author - Bhavanikamlay (student)
